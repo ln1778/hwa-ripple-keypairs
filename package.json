@@ -26,11 +26,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ln1778/hwa-ripple-keypairs.git"
+    "url": "git+ssh://git@github.com/ln1778/hwa-ripple-keypairs.git"
   },
   "license": "ISC",
   "prettier": "@xrplf/prettier-config",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ln1778/hwa-ripple-keypairs/issues"
+  },
+  "homepage": "https://github.com/ln1778/hwa-ripple-keypairs#readme",
+  "author": ""
 }
